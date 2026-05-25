@@ -37,13 +37,12 @@ Currently exploring AI, solving DSA problems, and building projects that teach m
 ### Currently
 
 ```txt
-🚀 Building: NearSwap
 
 📚 Learning: Backend • DSA • AI
 
 🎯 Goal: Software Engineering Internship
 
-☕ Current state: Turning coffee into code
+☕ Current state: Turning thoughts into code
 ```
 
 ---
@@ -77,7 +76,7 @@ Attendance tracking platform with analytics and student management features.
 
 🌐 Portfolio → https://xtroon.vercel.app/
 
-𝕏 X → https://x.com/ometiwari18
+𝕏  → https://x.com/ometiwari18
 
 ---
 
