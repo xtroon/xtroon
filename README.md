@@ -76,7 +76,7 @@ Attendance tracking platform with analytics and student management features.
 
 🌐 Portfolio → https://xtroon.vercel.app/
 
-𝕏  → https://x.com/ometiwari18
+𝕏 Twitter → https://x.com/ometiwari18
 
 ---
 
