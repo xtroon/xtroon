@@ -62,11 +62,11 @@ Mostly working with JavaScript, React, Node.js and C++, while learning backend s
 #### 🛒 NearSwap
 Local marketplace platform focused on connecting nearby buyers and sellers.
 
-#### 🎵 Spotify Clone
-Responsive music player interface with album navigation and custom controls.
+#### 💬 LiveTime Chat Application
+Real-time chat application with instant messaging and responsive interface.
 
-#### 📋 Attendance Tracker
-Attendance tracking platform with analytics and student management features.
+#### 🖼️ Image Download Extension
+Browser extension for quickly downloading images from websites with a simple one-click experience.
 
 ---
 
