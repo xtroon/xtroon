@@ -1,30 +1,104 @@
-<h1 align="center">Hi 👋, I'm Ome Tiwari</h1>
-<h3 align="center">Student Developer | Web & Problem Solving Enthusiast</h3>
+<h1 align="center">Om Tiwari 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omtiwari0&label=Profile%20views&color=0e75b6&style=flat" alt="omtiwari0" /> </p>
-
-- 🔭 I’m currently working on **NearSwap - A Local Marketplace Platform**
-
-- 🌱 I’m currently learning **Node JS**
-
-- 💬 Ask me about **JavaScript, React JS, C++**
-
-- 📫 How to reach me **omt81144@gmail.com**
-
-- ⚡ Fun fact **I sometimes spend more time planning my future than my sleep schedule.😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ome tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ome tiwari" height="30" width="40" /></a>
-<a href="https://instagram.com/omtiwari.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omtiwari.0" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/om tiwari let's play" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="om tiwari let's play" height="30" width="40" /></a>
+<p align="center">
+Software Engineering Student • Building things while learning them
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+Currently exploring AI, solving DSA problems, and building projects that teach me something new.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omtiwari0&show_icons=true&locale=en&layout=compact" alt="omtiwari0" /></p>
+<p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omtiwari0&show_icons=true&locale=en" alt="omtiwari0" /></p>
+<a href="https://xtroon.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live%20Website-000?style=for-the-badge&logo=vercel"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omtiwari0&" alt="omtiwari0" /></p>
+<a href="https://www.linkedin.com/in/ometiwari-ai/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://x.com/ometiwari18">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://instagram.com/xtroon0">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:ometiwari.ai@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### Currently
+
+```txt
+🚀 Building: NearSwap
+
+📚 Learning: Backend • DSA • AI
+
+🎯 Goal: Software Engineering Internship
+
+☕ Current state: Turning coffee into code
+```
+
+---
+
+### Tech I Use
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,js,python,react,nodejs,express,mongodb,firebase,git,github,vscode,tailwind"/>
+</p>
+
+Mostly working with JavaScript, React, Node.js and C++, while learning backend systems and AI concepts.
+
+---
+
+### Projects
+
+#### 🛒 NearSwap
+Local marketplace platform focused on connecting nearby buyers and sellers.
+
+#### 🎵 Spotify Clone
+Responsive music player interface with album navigation and custom controls.
+
+#### 📋 Attendance Tracker
+Attendance tracking platform with analytics and student management features.
+
+---
+
+### Find Me Here
+
+💻 LeetCode → https://leetcode.com/u/omtiwari0/
+
+🌐 Portfolio → https://xtroon.vercel.app/
+
+𝕏 X → https://x.com/ometiwari18
+
+---
+
+### GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=xtroon&show_icons=true&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtroon&layout=compact&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=xtroon&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+<i>Still learning. Still building.</i>
+</p>
