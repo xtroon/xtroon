@@ -1,4 +1,4 @@
-<h1 align="center">Om Tiwari 👋</h1>
+<h1 align="center">Ome Tiwari 👋</h1>
 
 <p align="center">
 Software Engineering Student • Building things while learning them
