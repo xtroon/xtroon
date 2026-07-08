@@ -107,12 +107,6 @@ A lightweight browser extension that lets users download images from any webpage
 
 <br>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=xtroon&theme=tokyonight&hide_border=true" />
-</p>
-
 
 <p align="center">
   <i>Building today for the opportunities of tomorrow. 🚀</i>
