@@ -1,116 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:667eea,50:764ba2,100:f093fb&text=Ome%20Tiwari&fontColor=ffffff&fontSize=62&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Open%20Source%20•%20AI%20Enthusiast&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=7F5AF0&center=true&vCenter=true&width=800&lines=Building+Real+World+Software;Open+Source+Contributor;Full+Stack+Developer;AI+Engineer+in+Progress;Always+Learning+🚀"/>
+<img src="https://i.pinimg.com/originals/e5/40/08/e54008fec896ec085da559cf537d6f32.gif" width="65%" alt="banner">
 
 <br>
 
-<a href="https://xtroon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ometiwari-ai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ometiwari.ai@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+# Ome Tiwari
 
-<br><br>
+Software Engineering Student • Full-Stack Developer • Open Source
 
-<img src="https://komarev.com/ghpvc/?username=xtroon&style=for-the-badge&color=302b63&label=PROFILE+VIEWS"/>
+MBM University, Jodhpur
 
+<a href="https://xtroon.vercel.app">Portfolio</a> •
+<a href="https://github.com/xtroon">GitHub</a> •
+<a href="https://www.linkedin.com/in/ometiwari-ai/">LinkedIn</a> •
+<a href="mailto:ometiwari.ai@gmail.com">Email</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=xtroon&style=flat&label=Profile%20Views"/>
 
 </div>
 
-<br>
+---
 
-## 🌙 What I'm Doing Rn
+I build and ship things that solve real problems. A Full stack engineer exploring ai tools and currently learning dsa, backend, AI and exploring open source.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-**📚 Learning**
-Backend development, Data Structures & Algorithms, and AI fundamentals
+### projects
 
-**🎯 Goal**
-Landing a Software Engineering internship
+<a href="https://github.com/xtroon/DrawForge-Collaborative-app">DrawForge</a> <br>
+A real-time collaborative whiteboard built with Next.js, WebSockets, and Canvas API featuring multiplayer drawing, live shape manipulation, and scalable room management.
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/xtroon/NearSwap-Campus-Marketplace">NearSwap</a> <br>
+A localized campus peer-to-peer marketplace application enabling university students to buy, sell, and exchange items securely.
 
-**🛠️ Building**
-Real-world projects to sharpen my skills
+<a href="https://github.com/xtroon/Realtime-Chat-Application">Realtime Chat Application</a> <br>
+A full-stack instant messaging platform built with Node.js and Socket.io featuring real-time authentication, user presence tracking, and dynamic chat channels.
 
-**☕ Mindset**
-Turning thoughts into code, one commit at a time
+<a href="https://github.com/xtroon/dsa-for-everyone">DSA for Everyone</a> <br>
+A beginner-friendly, open-source C++ repository designed to help developers master Data Structures and Algorithms through structured logic and hands-on contributions.
 
-</td>
-</tr>
-</table>
+<a href="https://github.com/xtroon/Image-Downloader-Extension">Image Downloader Extension</a> <br>
+A browser extension built using JavaScript and Chrome Extension APIs (Manifest V3) that inspects web pages and batch-downloads media assets seamlessly.
 
-<br>
+---
 
-## 🚀 Project Interests
+## Tech Inventory
 
-<table>
-<tr>
-<td width="25%" align="center">🌐<br><b>Web Apps</b><br><sub>React + Node.js</sub></td>
-<td width="25%" align="center">⚙️<br><b>Backend Systems</b><br><sub>APIs & Databases</sub></td>
-<td width="25%" align="center">🧩<br><b>Browser Extensions</b><br><sub>Chrome / Edge tools</sub></td>
-<td width="25%" align="center">🤖<br><b>AI / ML</b><br><sub>Applied fundamentals</sub></td>
-</tr>
-</table>
-
-<br>
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nextjs,nodejs,express,prisma,mongodb,mysql,postgres,supabase,firebase,redux,tailwind,bootstrap,git,github,docker,linux,bash,vscode,figma,postman,vercel,netlify,npm,vite&perline=8" />
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,python,html,css" />
 </p>
 
-<br>
-
-## 💡 Featured Projects
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 🎨 DrawForge
-
-A real-time collaborative whiteboard with live drawing, shapes, text tools, and multiplayer collaboration built using modern web technologies.
-
-</td>
-
-<td width="33%" valign="top">
-
-### 💬 Realtime Chat App
-
-A full-stack real-time messaging platform featuring instant messaging, authentication, online presence, and responsive UI.
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🖼️ Image Download Extension
-
-A lightweight browser extension that lets users download images from any webpage with a single click.
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-🧩 Solving DSA problems on [LeetCode](https://leetcode.com/u/omtiwari0/).
-
-✍️ Documenting journey on [X](https://x.com/ometiwari18).
-
-<br>
-
-
-<p align="center">
-  <i>Building today for the opportunities of tomorrow. 🚀</i>
+**Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux" />
 </p>
 
+**Databases & Backend Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase,docker,git" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:667eea,50:764ba2,100:f093fb"/>
+---
+
+### Currently
+
+- LeetCode → https://leetcode.com/u/xtroon/
+- X → https://x.com/ometiwari18
+- Portfolio → https://xtroon.vercel.app
+
+---
