@@ -6,7 +6,7 @@
 
 # Ome Tiwari, `xtroon`
 
-Full-Stack • AI/ML  Open Source
+Full-Stack • AI/ML • Open Source
 
 MBM University, Jodhpur
 
