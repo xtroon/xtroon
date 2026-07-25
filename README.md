@@ -27,7 +27,7 @@ I build and ship things that solve real problems. A Full stack engineer explorin
 
 ---
 
-### projects
+### Projects
 
 <a href="https://github.com/xtroon/DrawForge-Collaborative-app">DrawForge</a> <br>
 A real-time collaborative whiteboard built with Next.js, WebSockets, and Canvas API featuring multiplayer drawing, live shape manipulation, and scalable room management.
