@@ -71,4 +71,6 @@ A browser extension built using JavaScript and Chrome Extension APIs (Manifest V
 - X → https://x.com/ometiwari18
 - Portfolio → https://xtroon.vercel.app
 
+- I would like to work for early stage startups
+
 ---
