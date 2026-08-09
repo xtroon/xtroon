@@ -32,6 +32,9 @@ I build and ship things that solve real problems. A Full stack engineer explorin
 <a href="https://github.com/xtroon/DrawForge-Collaborative-app">DrawForge</a> <br>
 A real-time collaborative whiteboard built with Next.js, WebSockets, and Canvas API featuring multiplayer drawing, live shape manipulation, and scalable room management.
 
+<a href="https://algosmash.vercel.app/"><b>Algosmash</b></a> <br>
+A curated collection of LeetCode interview questions organized pattern-by-pattern to streamline Data Structures and Algorithms preparation.
+
 <a href="https://github.com/xtroon/NearSwap-Campus-Marketplace">NearSwap</a> <br>
 A localized campus peer-to-peer marketplace application enabling university students to buy, sell, and exchange items securely.
 
