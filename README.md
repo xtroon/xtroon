@@ -10,7 +10,7 @@ Full-Stack • AI/ML • Open Source
 
 MBM University, Jodhpur
 
-<a href="https://xtroon.vercel.app">xtroon.dev</a> /
+<a href="https://xtroon.vercel.app">xtroon</a> /
 <a href="https://x.com/ometiwari18">x</a> /
 <a href="https://www.linkedin.com/in/ometiwari-ai/">linkedin</a> /
 <a href="mailto:ometiwari.ai@gmail.com">email</a>
