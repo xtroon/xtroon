@@ -41,7 +41,7 @@ A localized campus peer-to-peer marketplace application enabling university stud
 <a href="https://github.com/xtroon/Realtime-Chat-Application">Realtime Chat Application</a> <br>
 A full-stack instant messaging platform built with Node.js and Socket.io featuring real-time authentication, user presence tracking, and dynamic chat channels.
 
-<a href="https://github.com/xtroon/dsa-for-everyone">DSA for Everyone</a> <br>
+<a href="https://github.com/xtroon/dsa-for-everyone">dsa-for-everyone</a> <br>
 A beginner-friendly, open-source C++ repository designed to help developers master Data Structures and Algorithms through structured logic and hands-on contributions.
 
 <a href="https://github.com/xtroon/Image-Downloader-Extension">Image Downloader Extension</a> <br>
