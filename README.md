@@ -17,7 +17,7 @@ MBM University, Jodhpur
 
 <br>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=xtroon&style=flat&label=Profile%20Views"/> -->
+ <img src="https://komarev.com/ghpvc/?username=xtroon&style=flat&label=Profile%20Views"/>
 
 </div>
 
