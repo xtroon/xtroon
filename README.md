@@ -17,7 +17,7 @@ MBM University, Jodhpur
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=xtroon&style=flat&label=Profile%20Views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=xtroon&style=flat&label=Profile%20Views"/> -->
 
 </div>
 
@@ -77,3 +77,5 @@ A browser extension built using JavaScript and Chrome Extension APIs (Manifest V
 - I would like to work for early stage startups
 
 ---
+
+<img src="https://api.sefinek.net/api/v2/moecounter?number=862&theme=miku&length=6&pixelated=true" alt="profile views">
