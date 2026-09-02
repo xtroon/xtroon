@@ -78,4 +78,4 @@ A browser extension built using JavaScript and Chrome Extension APIs (Manifest V
 
 ---
 
-<img src="https://api.sefinek.net/api/v2/moecounter?number=862&theme=miku&length=6&pixelated=true" alt="profile views">
+<!-- <img src="https://api.sefinek.net/api/v2/moecounter?number=862&theme=miku&length=6&pixelated=true" alt="profile views"> -->
