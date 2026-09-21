@@ -29,6 +29,9 @@ I build and ship things that solve real problems. A Full stack engineer explorin
 
 ### Projects
 
+<a href="https://github.com/xtroon/URL-Shortener"><b>Advanced URL Shortener</b></a> <br>
+A high-performance URL shortening service built with TypeScript, Express, PostgreSQL, Redis, Docker, and Nginx, featuring rate limiting, Redis caching, custom domains, and scalable redirect handling.
+
 <a href="https://github.com/xtroon/DrawForge-Collaborative-app">DrawForge</a> <br>
 A real-time collaborative whiteboard built with Next.js, WebSockets, and Canvas API featuring multiplayer drawing, live shape manipulation, and scalable room management.
 
