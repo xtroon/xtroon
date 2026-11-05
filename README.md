@@ -80,6 +80,5 @@ A browser extension built using JavaScript and Chrome Extension APIs (Manifest V
 - I would like to work for early stage startups
 
 ---
- <img src="https://api.sefinek.net/api/v2/moecounter?number=862&theme=miku&length=6&pixelated=true" alt="profile views"> 
- <!-- <img src="https://count.getloli.com/@xtroon?name=xtroon&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="views"> -->
+<!-- <img src="https://count.getloli.com/@xtroon?name=xtroon&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="views"> -->
 
