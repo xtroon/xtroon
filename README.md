@@ -80,5 +80,5 @@ A browser extension built using JavaScript and Chrome Extension APIs (Manifest V
 - I would like to work for early stage startups
 
 ---
-<!-- <img src="https://count.getloli.com/@xtroon?name=xtroon&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="views"> -->
+<img src="https://count.getloli.com/@xtroon?name=xtroon&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="views" style="display: none;">
 
